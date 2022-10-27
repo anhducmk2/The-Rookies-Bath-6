@@ -1,0 +1,5 @@
+1. Implicit wait
+Implicit wait sẽ báo cho trình điều khiển web chờ trong khoảng thời gian xác định trước khi nó hết kiên nhẫn và đưa ra thông báo “No Such Element Exception”.
+
+2. Explicit Wait
+Explicit wait được sử dụng để yêu cầu trình duyệt web chờ đợi trong một thời gian nhất định, theo một điều kiện cụ thể. Nếu vượt quá thời gian chờ đợi thì sẽ đưa ra ngoại lệ ElementNotVisibleException
